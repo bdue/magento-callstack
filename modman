@@ -1,1 +1,3 @@
-
+app/etc/modules/Timbroder_Stack.xml app/etc/modules/Timbroder_Stack.xml
+app/code/community/Timbroder/Stack/Helper/Callstack.php app/code/community/Timbroder/Stack/Helper/Callstack.php
+app/code/community/Timbroder/Stack/etc/config.xml app/code/community/Timbroder/Stack/etc/config.xml
